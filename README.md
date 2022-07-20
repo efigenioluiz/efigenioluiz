@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efigenioluiz&layout=compact&theme=dracula)](https://github.com/efigenioluiz/github-readme-stats) 
 
 
-- 🚀    DevOps at OmniChat 💛!
+- 🚀    Backend at OmniChat 💛!
 - 🌱	I'am 24 years old
 - :📚:	Studying Analysis and Systems Development at the Federal Institute of Paraná - IFPR
 
