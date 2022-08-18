@@ -5,7 +5,7 @@
 
 - 🚀    Backend at OmniChat 💛!
 - 🌱	I'am 24 years old
-- :📚:	Studying Analysis and Systems Development at the Federal Institute of Paraná - IFPR
+- :📚:	Analysis and Systems Development at the Federal Institute of Paraná - IFPR
 
 ## About me
 
