@@ -4,7 +4,7 @@
 
 
 - 🚀    Backend Developer !
-- 🌱	I'am 27 years old
+- 🌱	I'am 28 years old
 - :📚:	Analysis and Systems Development at the Federal Institute of Paraná - IFPR
 
 ## About me
