@@ -3,8 +3,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efigenioluiz&layout=compact&theme=dracula)](https://github.com/efigenioluiz/github-readme-stats) 
 
 
-- 🚀    Backend Developer !
-- 🌱	I'am 27 years old
+- 🚀    Softwarer Engineer !
+- 🌱	I'am 28 years old
 - :📚:	Analysis and Systems Development at the Federal Institute of Paraná - IFPR
 
 ## About me
